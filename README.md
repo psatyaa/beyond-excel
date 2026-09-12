@@ -72,7 +72,7 @@ streamlit run netflix_advanced_analytics.py
 
 ---
 
-## 🎓 MBA Key Takeaways
+## 🎓  Key Takeaways
 
 - **The Excel Limit**: Sorting in Excel leads to a "greedy pick" (e.g., spending 93% of budget on a single mega-title like *Wednesday S2*).
 - **The Optimization Advantage**: Algorithmic optimization selects a portfolio of **5 titles instead of 2**, generating **+$800,000 more net value** while saving **$500,000 in unspent cash**.
