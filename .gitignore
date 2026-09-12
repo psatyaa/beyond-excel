@@ -1,0 +1,35 @@
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# Python Cache & Build
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+*.egg-info/
+.eggs/
+
+# Generated Outputs & Reports (Do Not Check In)
+output/
+Sample/results/
+Sample/charts/
+Sample/netflix_executive_dashboard.html
+~$*.xlsx
+
+# Streamlit Runtime
+.streamlit/
+
+# System Junk & IDEs
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+.vscode/
+.idea/
